@@ -1,0 +1,16 @@
+{
+"companyName": "Bryan Shanahan Production",
+"productName": "Block Breaker",
+"productVersion": "0.1",
+"dataUrl": "Block_Breaker.data.unityweb",
+"wasmCodeUrl": "Block_Breaker.wasm.code.unityweb",
+"wasmFrameworkUrl": "Block_Breaker.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.1f1"
+}
